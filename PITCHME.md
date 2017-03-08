@@ -47,3 +47,21 @@ Like Microsoft OneNote
 ### What doesn't work
 - contacts are hard to access
 - cant see mail header
+
+#VSLIDE
+![](screenshots/inbox1.png)
+
+#VSLIDE
+![](screenshots/inbox2.png)
+
+#VSLIDE
+![](screenshots/inbox3.png)
+
+#VSLIDE
+![](screenshots/inbox4.png)
+
+#VSLIDE
+![](screenshots/inbox5.png)
+
+#VSLIDE
+![](screenshots/inbox6.png)
