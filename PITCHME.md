@@ -22,11 +22,14 @@ Like Microsoft OneNote
 #VSLIDE
 ### Google Keep Mobile
 
-#VSLIDE?image=screenshots/keep1.png
+#VSLIDE
+![](image=screenshots/keep1.png)
 
-#VSLIDE?image=screenshots/keep2.png
+#VSLIDE
+![](image=screenshots/keep2.png)
 
-#VSLIDE?image=screenshots/keep3.png
+#VSLIDE
+![](image=screenshots/keep3.png)
 
 #HSLIDE
 ### Google Inbox - get to inbox zero
