@@ -47,6 +47,8 @@ Like Microsoft OneNote
 ### What doesn't work
 - contacts are hard to access
 - cant see mail header
+- starred items are not immediately accessible
+- mark spam/phishing options are limited
 
 #VSLIDE
 ![](screenshots/inbox1.png)
