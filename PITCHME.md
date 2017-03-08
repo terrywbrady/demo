@@ -1,5 +1,5 @@
 #HSLIDE
-### Using Google Keep and Google Inbox (Draft)
+### Using Google Keep and Google Inbox
 
 #HSLIDE
 ### Google Keep - Note taking tool
