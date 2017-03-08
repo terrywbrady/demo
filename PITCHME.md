@@ -37,6 +37,7 @@ Feature rich mail client
 * web client
 * mobile client
 * chrome extension to save research notes to inbox
+
 Works best with Inbox Zero
 
 #VSLIDE
@@ -61,6 +62,9 @@ Works best with Inbox Zero
 
 #VSLIDE
 ### You can still use Gmail
+
+#VSLIDE
+### Google Inbox Mobile
 
 #VSLIDE
 ![](screenshots/inbox1.png)
