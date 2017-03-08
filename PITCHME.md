@@ -3,13 +3,28 @@
 
 #HSLIDE
 ### Google Keep - Note taking tool
+Like Microsoft OneNote
 * Web version
 * Mobile version
 * Chrome extension
-* Sharing
+
+#VSLIDE
+### Google Keep Features
+* Note Sharing
 * Drawing
 * Rich links
-* Reminder
+* Reminders
+
+#VSLIDE
+### Google Keep demo
+* <a href="http://keep.google.com" target="_blank">keep.google.com</a>
+
+#VLSIDE
+### Google Keep Mobile
+
+#VSLIDE?img=screen-shots/keep1.png
+#VSLIDE?img=screen-shots/keep2.png
+#VSLIDE?img=screen-shots/keep3.png
 
 #HSLIDE
 ### Google Inbox - get to inbox zero
