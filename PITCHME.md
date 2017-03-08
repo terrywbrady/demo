@@ -23,7 +23,10 @@ Like Microsoft OneNote
 ### Google Keep Mobile
 
 #VSLIDE?image=screen-shots/keep1.png
+
+
 #VSLIDE?image=screen-shots/keep2.png
+
 #VSLIDE?image=screen-shots/keep3.png
 
 #HSLIDE
