@@ -42,5 +42,11 @@ Java | Kotlin | Note
 - https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html
   - Kotlin Unit is similar to void
 
+## Generic Functions within a class
+- create example
+
+## Generic Constraints within a class function
+- create example
+
 ## Slides
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/terrywbrady-demo/kotlin?grs=github&t=white)
