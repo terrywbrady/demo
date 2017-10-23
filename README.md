@@ -24,6 +24,12 @@ Java | Kotlin | Note
 `Foo<? extends E>` (Producer Extends)|`Foo<out E>`|Covariant Upper Bound 
 `Foo<? super String>)` (Consumer Subtypes) |`Foo<in E>`|Contravariant Lower Bound
 
+Note:
+  - T extends ClassName supported in class def
+  - ? extends ClassName supported in class def
+  - ? super ClassName supported in class def
+  - T super ClassName does not seem to be supported
+
 ## Star Projection
     class Foo<out TUpper>{
       fun get(): <out TUpper> {} //is this the correct meaning of TUpper? 
