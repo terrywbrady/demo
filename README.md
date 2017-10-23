@@ -26,8 +26,9 @@ Java | Kotlin | Note
 
 ## Star Projection
     class Foo<out TUpper>{
-      fun get(): <out TUpper> {} 
+      fun get(): <out TUpper> {} //is this the correct meaning of TUpper? 
       fun get(): <*> {} 
+      fun get(): <out Any?> {} 
     }
 
     class Foo<T>{
@@ -35,6 +36,11 @@ Java | Kotlin | Note
       fun set(<*>): {} 
     }
 
-  
+- https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/
+- https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-nothing.html  
+  - Kotlin Nothing has no equivalent in java
+- https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html
+  - Kotlin Unit is similar to void
+
 ## Slides
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/terrywbrady-demo/kotlin?grs=github&t=white)
