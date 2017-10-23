@@ -8,11 +8,11 @@
 
 Java | Kotlin | Note
 ---|---|---
-class Foo<T>(T t) | class Foo<T>(t: T) | Generic Class Definition
-Foo<Integer> foo = new Foo<Integer>(1) | val box: Foo<Int> = Foo<Int>(1) | Generic class instatiation - long form
-Foo<Integer> foo = new Foo<>(1) | val foo: Foo(1) | Generic class instatiation - short form, generic parameters can be inferred in Kotlin
-void addAll(Collection<? extends E> items)||Covariant (Producer Extends)
-List<? super String> ||Contravariant (Consumer Subtypes)
+`class Foo<T>(T t)` | `class Foo<T>(t: T)` | Generic Class Definition
+`Foo<Integer> foo = new Foo<Integer>(1)` | `val box: Foo<Int> = Foo<Int>(1)` | Generic class instatiation - long form
+`Foo<Integer> foo = new Foo<>(1)` | `val foo: Foo(1)` | Generic class instatiation - short form, generic parameters can be inferred in Kotlin
+`void addAll(Collection<? extends E> items)`|`Foo<out E>`|Covariant (Producer Extends)
+`add(List<? super String>)` |`Foo<in E>`|Contravariant (Consumer Subtypes)
 
   
 ## Slides
